@@ -7,29 +7,6 @@
 
 ---
 
-## 🚀 Sobre mim
-
-- 💻 Experiência acadêmica com **Java, JavaScript, HTML e CSS**
-- 🔌 Desenvolvimento de **APIs em Java**
-- 🌐 Criação de sites responsivos
-- 🗄️ Persistência de dados em CSV
-- 🖥️ Configuração de servidor **Apache2** e **DNS (BIND9)**
-- 📊 Documentação técnica (Requisitos, Casos de Uso, Diagramas)
-
----
-
-## 🎯 Objetivo
-
-Me tornar um **Desenvolvedor Full-Stack**, dominando:
-
-- 🔹 Back-end robusto
-- 🔹 Integração entre front e API
-- 🔹 Banco de dados SQL
-- 🔹 Boas práticas de arquitetura
-- 🔹 Deploy e infraestrutura
-
----
-
 ## 🛠️ Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
