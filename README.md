@@ -7,6 +7,22 @@
 
 ---
 
+## 📈 Atualmente estudando
+
+- 📚 Node.js
+- 🗄️ Banco de Dados SQL
+- 🧑🏼‍💻 JavaScript
+- 🗂️ metodologias ágeis
+- 🧱 Estruturação de APIs REST
+
+---
+
+## 📊 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheus-aguiar-hub&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
+
+---
+
 ## 🛠️ Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
@@ -17,21 +33,6 @@
   <img align="center" alt="Linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Node" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
-
----
-
-## 📈 Atualmente estudando
-
-- 📚 Node.js
-- 🗄️ Banco de Dados SQL
-- 🔐 Fundamentos de Segurança
-- 🧱 Estruturação de APIs REST
-
----
-
-## 📊 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheus-aguiar-hub&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
 
 ---
 
